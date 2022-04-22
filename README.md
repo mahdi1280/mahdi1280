@@ -22,7 +22,7 @@
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d).
 - :nerd_face: Always `learning new things`
 - 📫 Connect with me:
-	📧 Email: mahdikarimi422@gmail.com
+- 	📧 Email: mahdikarimi422@gmail.com
 <br>
 
 
