@@ -25,6 +25,6 @@
 - 	📧 Email: mahdikarimi422@gmail.com
 
 <br>
-# 🟢 I Created these websites: 
-- [Baghes.ir 🌐](https://baghes.ir/): This is a store site for selling agricultural equipment, built with Java
-- [Ratewatch.ir 🌐](https://ratewatch.ir/): This site is a SEO tool and is built with Java and NextJs and React
+## 🟢 I Created these websites: 
+- [Baghes.ir 🌐](https://baghes.ir/): This is a store site for selling agricultural equipment, built with `Java`
+- [Ratewatch.ir 🌐](https://ratewatch.ir/): This site is a SEO tool and is built with `Java` and `NextJs` and `React`
