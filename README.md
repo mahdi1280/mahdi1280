@@ -23,7 +23,8 @@
 - :nerd_face: Always `learning new things`
 - 📫 Connect with me:
 - 	📧 Email: mahdikarimi422@gmail.com
-- [Baghes.ir](https://baghes.ir/)
+
 <br>
-
-
+# 🟢 I Created these websites: 
+- [Baghes.ir 🌐](https://baghes.ir/): This is a store site for selling agricultural equipment, built with Java
+- [Ratewatch.ir 🌐](https://ratewatch.ir/): This site is a SEO tool and is built with Java and NextJs and React
